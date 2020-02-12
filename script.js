@@ -15,12 +15,14 @@ let score = 0
 
 start.addEventListener('click', startTrivia)
 function startTrivia(){
-    q[currentQIndex].style.display = 'block' //this will make the first question load
+    q[currentQIndex].style.display = 'block' 
+    //this will make the first question load
     //console.log('current', q[currentQIndex])
     directions.style.display= 'none'
     //removes the directions and start button  
 }
 //console.log(q)
+  
 
 
 option.forEach(buttons =>{
@@ -33,9 +35,9 @@ function next(evt){
     previousQIndex = currentQIndex
     currentQIndex++
     //console.log(q[currentQIndex])
-    q[previousQIndex].style.display = 'none' //removes last question
-    q[currentQIndex].style.display = 'block' //display next question
+    q[previousQIndex].style.display = 'none' 
+    //removes last question
+    q[currentQIndex].style.display = 'block' 
+    //display next question
 }
 
-
-    

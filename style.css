@@ -3,7 +3,7 @@ body{
     text-align: center;
     font-size: 1em;
     margin: 10% 5% 0 5%;
-    background: linear-gradient(0.25turn, #1C00D3, #ebf8e1, #ff1a00);
+    /*background: linear-gradient(0.25turn, #1C00D3, #ebf8e1, #ff1a00);*/
     
 }
 
@@ -16,7 +16,6 @@ h1{
 }
 
 h2{
-    
     font-size: 1em;  
 }
 
@@ -46,7 +45,7 @@ p{
 }
 
 .start:hover{
-    background-color: #4169E1;
+    background-color: blue;
 }
 
 
@@ -56,10 +55,13 @@ p{
 }
 
 
+
 .start{
+    color: white;
+    background-color: #4169E1;
     border: .2em #000080 solid;
     border-radius: 5em;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     padding: 3%;
@@ -81,6 +83,8 @@ p{
 }
 
 .option{
+    background-color: #4169E1;
+    color: white;
     border: .2em #000080 solid;
     border-radius: 5em;
     /* adds rounded edges to the border */
@@ -105,6 +109,7 @@ p{
 }
 
 .restart{
+
     border: .1em hsl(70, 21%, 37%) solid;
     border-radius: 5em;
     padding: 3%;
