@@ -2,7 +2,7 @@
 
  add query selector all for correct
  add click event listener to correct  
- once it is clicked do not allow it to seclect any other options?
+ once it is clicked do not allow it to seclect any other options
  add querry selector all for incorrect
  add click event listener for incorrect 
  once it is clicked do not let the user click any other options
