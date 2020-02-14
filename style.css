@@ -8,9 +8,7 @@ body {
     background-size: cover;
     text-align: center;
     font-size: 1em;
-    
-   }
-
+    }
 
 h1 {
     padding: 0px;
@@ -59,7 +57,6 @@ p{
     
 }
 
-
 .q {
     margin: 20% 0;
     display: none;
@@ -101,7 +98,7 @@ p{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     border: .1em #737373 solid;
     border-radius: 5em;
-    /* adds rounded edges to the border */
+    /*  can add rounded edges to the border */
     display:flex;
     align-items: center;
     justify-content: center;
@@ -132,7 +129,7 @@ p{
 .restart {
     color: #737373; 
     cursor: pointer;
-    -webkit-transition-duration: 0.4s; /* Safari */
+    -webkit-transition-duration: 0.4s; 
     transition-duration: 0.4s;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     border: .1em #404040 solid;
