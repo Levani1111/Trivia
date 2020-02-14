@@ -89,4 +89,4 @@ function restartTrivia(){
     window.location.reload(true);  // this makes restart 
     
 }
-//Done
+
