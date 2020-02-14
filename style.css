@@ -1,6 +1,6 @@
 body {
     background-image: url("mount-rushmore-34424.jpg");
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.8);
     background-blend-mode: lighten;
     background-position: center center;
     background-repeat: no-repeat;
@@ -8,8 +8,7 @@ body {
     background-size: cover;
     text-align: center;
     font-size: 1em;
-    margin: 10% 5% 0 5%;
-    font-family: 'Montserrat', sans-serif;
+    
    }
 
 
@@ -206,11 +205,12 @@ footer {
         font-size: 1.2em;
     }
     #questions img {
+        border:30px;
         box-shadow: 10px 10px 5px #ccc;
       -moz-box-shadow: 10px 10px 5px #ccc;
       -webkit-box-shadow: 10px 10px 5px #ccc;
       -khtml-box-shadow: 10px 10px 5px #ccc;
-        width: 30%;
+       width: 65%;
     }
     /* .q img{
         width: 70%;
@@ -233,7 +233,8 @@ footer {
         margin: 5% 15%;
     }
     h1 {
-        font-size: 4em;
+        text-shadow: 2px 2px 6px #1a53ff;
+        font-size: 9em;
     }
 
     h2 {
