@@ -1,5 +1,4 @@
-# Trivia 
-## Project
+# Trivia Project
 
 add query selector all for correct
 add click event listener to correct 
