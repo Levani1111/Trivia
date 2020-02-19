@@ -10,6 +10,6 @@ Once the game is open in your browser, press the start button.  Each question ha
 
 To win the game, the player must answer 7 out of 10 questions correctly.  If the player fails to win, he/she will be asked to play again
 
-###
+### Credits
 
 This game was created by Levani Papashvili in 2020
