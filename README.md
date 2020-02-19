@@ -1,17 +1,15 @@
 # Trivia Project
 
-add query selector all for correct
-add click event listener to correct 
-once it is clicked do not allow it to seclect any other options
+For this project I was tasked with developing a game that could played in a browser using CSS, HTML and Javascript. I developed a trivia game to test basic questions from the US Citizenship test.
 
-add querry selector all for incorrect
-add click event listener for incorrect 
-once it is clicked do not let the user click any other options 
+## How to Play
 
-This project is my 4 week GA project
+Once the game is open in your browser, press the start button.  Each question has four possible answers and only one correct answer.
 
-This project uses:
+## How to Win
 
-### html
-### css
-### javascript
+To win the game, the player must answer 7 out of 10 questions correctly.  If the player fails to win, he/she will be asked to play again
+
+###
+
+This game was created by Levani Papashvili in 2020
