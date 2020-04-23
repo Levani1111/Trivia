@@ -13,3 +13,6 @@ To win the game, the player must answer 7 out of 10 questions correctly.  If the
 ### Credits
 
 This game was created by Levani Papashvili in 2020
+
+#### Link to Trivia
+https://levani1111.github.io/Trivia/
